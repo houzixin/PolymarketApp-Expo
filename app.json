@@ -34,6 +34,7 @@
       "eas": {
         "projectId": "polymarket-app"
       }
-    }
+    },
+    "plugins": []
   }
 }
